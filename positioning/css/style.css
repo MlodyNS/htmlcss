@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.blok{
+    height: 150px;
+    width: 150px;
+    background: rebeccapurple;
+    border: 2px solid blue;
+    padding: 5px ;
+    margin-top: 10px;
+    margin-bottom: 5px;
+
+}
+#blokb{
+    background:hotpink ;
+    float: left;
+}
+#blokc{
+    background: darkmagenta;
+    padding: 40px;
+    float: right;
+}

@@ -1,0 +1,15 @@
+/*navbar*/
+
+.nav-opacity{
+    background: rgba(247, 249, 250, 0.7)
+}
+
+/*colors*/
+
+.bg-gradient{
+    background:linear-gradient(to bottom, #f8f9fe,#ffffff);
+}
+
+li::marker {
+    color: lawngreen;
+}
