@@ -1,0 +1,31 @@
+/*navbar*/
+
+.nav-opacity{
+    background: rgba(247, 249, 250, 0.7)
+}
+
+/*colors*/
+
+.bg-gray{
+    background: #f8fafc;
+}
+
+.bg-db{
+    background: #0f172a;
+}
+
+li::marker {
+    color: lawngreen;
+}
+
+/*Paddings*/
+
+.p-icon{
+    padding-left: 20px;
+    padding-top: 12px;
+}
+
+.p-icon2{
+    padding-top: 26px;
+    padding-left: 27px;
+}
